@@ -1,8 +1,7 @@
 {
-  "name": "nodejs-template",
+  "name": "typescript-template",
   "version": "1.0.0",
-  "description": "private-chat",
-  "main": "index.js",
+  "description": "typescript-template",
   "author": "Xydez <thexydez@gmail.com>",
   "license": "MIT",
   "private": true,
